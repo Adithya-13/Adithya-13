@@ -3,7 +3,7 @@
 
 [![Kotakode Badge](https://img.shields.io/badge/-Kotakode-green?style=plastic&logo=Kotakode&link=https://kotakode.com/users/527/adithya-13)](https://kotakode.com/users/527/adithya-13)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-white?style=plastic&logo=Gmail&link=mailto:aditputrafirmansyah@gmail.com)](mailto:aditputrafirmansyah@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/aditputrafirmansyah/)](https://www.linkedin.com/in/aditputrafirmansyah/) 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=plastic&logo=Linkedin&link=https://www.linkedin.com/in/aditputrafirmansyah/)](https://www.linkedin.com/in/aditputrafirmansyah/) 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=plastic&logo=telegram&link=https://t.me/Adithya_13)](https://t.me/Adithya_13) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/adithya_firmansyahputra/)](https://www.instagram.com/adithya_firmansyahputra/)
 ![Adithya-13 Stars](https://img.shields.io/github/stars/Adithya-13?affiliations=OWNER&style=social)
