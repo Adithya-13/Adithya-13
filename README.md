@@ -19,7 +19,7 @@ I'm Adithya Firmansyah Putra, 16 years old, Software Egineering Student at Vocat
 
 &nbsp;
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=Adithya-13&theme=dark&show_icons=true)](https://github.com/Adithya-13)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-13&hide=TeX&layout=compact&theme=dark)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=Adithya-13&theme=cobalt&show_icons=true)](https://github.com/Adithya-13)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-13&hide=TeX&layout=compact&theme=cobalt)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adithya-13.Adithya-13)
