@@ -8,6 +8,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-white?style=plastic&logo=instagram&link=https://www.instagram.com/adithya_firmansyahputra/)](https://www.instagram.com/adithya_firmansyahputra/)
 ![Adithya-13 Stars](https://img.shields.io/github/stars/Adithya-13?affiliations=OWNER&style=social)
 
+![code](https://media4.giphy.com/media/f6hnhHkks8bk4jwjh3/giphy.gif)
+
 I'm Adithya Firmansyah Putra, 16 years old, Software Egineering Student at Vocational Highschool 1 Majalengka. My busy life now is as a student, working part time as a Flutter Engineer & Android Engineer, a Senior Student Mentor at [Kotakode](https://kotakode.com/). You can Reach me in [Telegram](https://t.me/Adithya_13) or [Instagram](https://www.instagram.com/adithya_firmansyahputra/).
 
 **About My Personality**
