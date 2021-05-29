@@ -26,7 +26,9 @@ I'm Adithya Firmansyah Putra, 16 years old, Software Egineering Student at Vocat
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adithya-13.Adithya-13)
 
-<!--START_SECTION:waka-->
+<details>
+  <summary><b>My WakaTime!</b></summary>
+  <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-280567%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -86,3 +88,4 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+</details>
