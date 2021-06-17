@@ -10,7 +10,7 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Adithya-13.Adithya-13)
 
-I'm Adithya Firmansyah Putra, 16 years old, Software Engineering Student at Vocational Highschool 1 Majalengka. Android, Flutter, and Machine Learning Enthusiast. You can reach me on [this page](https://msha.ke/adithya_13/)
+I'm Adithya Firmansyah Putra, Software Engineering Student at Vocational Highschool 1 Majalengka. Android, Flutter, and Machine Learning Enthusiast. You can reach me on [this page](https://msha.ke/adithya_13/)
 
 <img align="right" alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adithya-13&theme=radical&show_icons=true&hide_border=true&line_height=24"/>
 
