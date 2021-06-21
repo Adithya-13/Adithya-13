@@ -30,45 +30,6 @@ I'm Adithya Firmansyah Putra, Software Engineering Student at Vocational Highsch
   <!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-283095%20lines%20of%20code-blue)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    70 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.39% 
-🌆 Daytime    79 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.5% 
-🌃 Evening    145 commits    ████████░░░░░░░░░░░░░░░░░   33.96% 
-🌙 Night      133 commits    ███████░░░░░░░░░░░░░░░░░░   31.15%
-
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday       58 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.58% 
-Tuesday      35 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.2% 
-Wednesday    39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.13% 
-Thursday     39 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.13% 
-Friday       68 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.93% 
-Saturday     74 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.33% 
-Sunday       114 commits    ██████░░░░░░░░░░░░░░░░░░░   26.7%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-
-```
-
 **I Mostly Code in Kotlin** 
 
 ```text
@@ -82,6 +43,6 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 20/06/2021
+ Last Updated on 21/06/2021
 <!--END_SECTION:waka-->
 </details>
