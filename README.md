@@ -24,7 +24,7 @@ I'm Adithya Firmansyah Putra, Software Engineering Student at Vocational Highsch
 <img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-421478%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-282349%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
 
@@ -40,9 +40,9 @@ I'm Adithya Firmansyah Putra, Software Engineering Student at Vocational Highsch
 ```text
 Monday       75 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.79% 
 Tuesday      54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.49% 
-Wednesday    77 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.11% 
+Wednesday    78 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.26% 
 Thursday     89 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.99% 
-Friday       93 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.62% 
+Friday       92 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.47% 
 Saturday     104 commits    ████░░░░░░░░░░░░░░░░░░░░░   16.35% 
 Sunday       144 commits    █████░░░░░░░░░░░░░░░░░░░░   22.64%
 
@@ -55,14 +55,14 @@ Sunday       144 commits    █████░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     6 hrs 56 mins       ████████████████████████░   99.44% 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.56%
+Dart                     3 hrs 50 mins       █████████████████████████   99.97% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.03%
 
 🔥 Editors: 
-Android Studio           6 hrs 58 mins       █████████████████████████   100.0%
+Android Studio           3 hrs 50 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      6 hrs 58 mins       █████████████████████████   100.0%
+Mac                      3 hrs 50 mins       █████████████████████████   100.0%
 
 ```
 
@@ -79,5 +79,5 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2021
+ Last Updated on 05/12/2021
 <!--END_SECTION:waka-->
