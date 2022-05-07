@@ -24,6 +24,8 @@ I'm Adithya Firmansyah Putra, Software Engineering Student at Vocational Highsch
 <img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -40,10 +42,10 @@ I'm Adithya Firmansyah Putra, Software Engineering Student at Vocational Highsch
 ```text
 Monday       56 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.27% 
 Tuesday      54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.87% 
-Wednesday    52 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.46% 
+Wednesday    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.26% 
 Thursday     71 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.29% 
 Friday       66 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.28% 
-Saturday     81 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.3% 
+Saturday     82 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.5% 
 Sunday       117 commits    ██████░░░░░░░░░░░░░░░░░░░   23.54%
 
 ```
@@ -78,5 +80,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 22:12:39 UTC
+ Last Updated on 07/05/2022 22:12:01 UTC
 <!--END_SECTION:waka-->
