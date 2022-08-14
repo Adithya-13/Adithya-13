@@ -24,7 +24,7 @@ I'm Adithya Firmansyah Putra, Software Engineering Student at Vocational Highsch
 <img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C382%20hrs%2018%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -45,8 +45,8 @@ Tuesday      55 commits     ███░░░░░░░░░░░░░░�
 Wednesday    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
 Thursday     78 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
 Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
-Saturday     60 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.3% 
-Sunday       86 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.07%
+Saturday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
+Sunday       87 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.29%
 
 ```
 
@@ -57,14 +57,14 @@ Sunday       86 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     30 hrs 12 mins      █████████████████████████   99.94% 
+Dart                     34 hrs 46 mins      █████████████████████████   99.94% 
 Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.06%
 
 🔥 Editors: 
-VS Code                  30 hrs 13 mins      █████████████████████████   100.0%
+VS Code                  34 hrs 47 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      30 hrs 13 mins      █████████████████████████   100.0%
+Mac                      34 hrs 47 mins      █████████████████████████   100.0%
 
 ```
 
@@ -81,5 +81,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/08/2022 22:14:15 UTC
+ Last Updated on 14/08/2022 22:12:10 UTC
 <!--END_SECTION:waka-->
