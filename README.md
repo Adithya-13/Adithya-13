@@ -24,7 +24,7 @@ I'm Adithya Firmansyah Putra, Software Engineering Student at Vocational Highsch
 <img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C399%20hrs%2052%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C400%20hrs%2035%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
@@ -41,12 +41,12 @@ I'm Adithya Firmansyah Putra, Software Engineering Student at Vocational Highsch
 
 ```text
 Monday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
-Tuesday      54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
+Tuesday      55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
 Wednesday    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
 Thursday     78 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
 Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
 Saturday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
-Sunday       87 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.29%
+Sunday       86 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.07%
 
 ```
 
@@ -57,14 +57,14 @@ Sunday       87 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Dart                     9 hrs 4 mins        ████████████████████████░   98.74% 
-YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.26%
+Dart                     11 hrs 11 mins      ████████████████████████░   98.98% 
+YAML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   1.02%
 
 🔥 Editors: 
-VS Code                  9 hrs 10 mins       █████████████████████████   100.0%
+VS Code                  11 hrs 18 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Mac                      9 hrs 10 mins       █████████████████████████   100.0%
+Mac                      11 hrs 18 mins      █████████████████████████   100.0%
 
 ```
 
@@ -81,5 +81,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/08/2022 22:12:48 UTC
+ Last Updated on 30/08/2022 22:14:27 UTC
 <!--END_SECTION:waka-->
