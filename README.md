@@ -24,9 +24,50 @@ I'm Adithya Firmansyah Putra, Software Engineering Student at Vocational Highsch
 <img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C415%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
+🌆 Daytime    108 commits    ██████░░░░░░░░░░░░░░░░░░░   23.95% 
+🌃 Evening    115 commits    ██████░░░░░░░░░░░░░░░░░░░   25.5% 
+🌙 Night      174 commits    █████████░░░░░░░░░░░░░░░░   38.58%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       57 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.64% 
+Tuesday      54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.97% 
+Wednesday    51 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.31% 
+Thursday     78 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.29% 
+Friday       65 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.41% 
+Saturday     59 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.08% 
+Sunday       87 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.29%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Dart                     14 hrs 55 mins      ████████████████████████░   98.65% 
+YAML                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   1.31% 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.05%
+
+🔥 Editors: 
+VS Code                  15 hrs 7 mins       █████████████████████████   100.0%
+
+💻 Operating System: 
+Mac                      15 hrs 7 mins       █████████████████████████   100.0%
+
+```
 
 **I Mostly Code in Kotlin** 
 
@@ -41,5 +82,5 @@ CSS                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 04/09/2022 22:12:54 UTC
+ Last Updated on 05/09/2022 22:14:40 UTC
 <!--END_SECTION:waka-->
