@@ -24,7 +24,7 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 <img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C880%20hrs%2012%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C881%20hrs%2028%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
 
@@ -34,18 +34,18 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 🌞 Morning                406 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.64 % 
 🌆 Daytime                560 commits         █████░░░░░░░░░░░░░░░░░░░░   20.19 % 
 🌃 Evening                644 commits         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-🌙 Night                  1163 commits        ██████████░░░░░░░░░░░░░░░   41.94 % 
+🌙 Night                  1164 commits        ██████████░░░░░░░░░░░░░░░   41.96 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   365 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Monday                   366 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.19 % 
 Tuesday                  347 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.51 % 
-Wednesday                275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Wednesday                275 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
 Thursday                 332 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
 Friday                   383 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
 Saturday                 479 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Sunday                   592 commits         █████░░░░░░░░░░░░░░░░░░░░   21.35 % 
+Sunday                   592 commits         █████░░░░░░░░░░░░░░░░░░░░   21.34 % 
 ```
 
 
@@ -79,5 +79,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2023 22:06:58 UTC
+ Last Updated on 29/05/2023 22:07:28 UTC
 <!--END_SECTION:waka-->
