@@ -24,7 +24,7 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 <img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C945%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C948%20hrs%2025%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.1%20million%20lines%20of%20code-blue)
 
@@ -32,20 +32,20 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 
 ```text
 🌞 Morning                416 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.90 % 
-🌆 Daytime                598 commits         █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
+🌆 Daytime                598 commits         █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
 🌃 Evening                720 commits         ██████░░░░░░░░░░░░░░░░░░░   24.06 % 
-🌙 Night                  1258 commits        ███████████░░░░░░░░░░░░░░   42.05 % 
+🌙 Night                  1259 commits        ███████████░░░░░░░░░░░░░░   42.06 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   378 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
-Tuesday                  359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Wednesday                285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Thursday                 341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.40 % 
+Monday                   379 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+Tuesday                  359 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Wednesday                285 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Thursday                 341 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
 Friday                   398 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
 Saturday                 585 commits         █████░░░░░░░░░░░░░░░░░░░░   19.55 % 
-Sunday                   646 commits         █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+Sunday                   646 commits         █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
 ```
 
 
@@ -81,5 +81,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/07/2023 22:08:44 UTC
+ Last Updated on 17/07/2023 22:08:19 UTC
 <!--END_SECTION:waka-->
