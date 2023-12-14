@@ -24,7 +24,7 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 <img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C048%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C051%20hrs-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -34,7 +34,7 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 🌞 Morning                446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
 🌆 Daytime                932 commits         ██████░░░░░░░░░░░░░░░░░░░   24.08 % 
 🌃 Evening                951 commits         ██████░░░░░░░░░░░░░░░░░░░   24.57 % 
-🌙 Night                  1541 commits        ██████████░░░░░░░░░░░░░░░   39.82 % 
+🌙 Night                  1542 commits        ██████████░░░░░░░░░░░░░░░   39.83 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -42,7 +42,7 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 Monday                   445 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
 Tuesday                  636 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
 Wednesday                320 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 % 
-Thursday                 669 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.29 % 
+Thursday                 670 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.31 % 
 Friday                   511 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
 Saturday                 629 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
 Sunday                   660 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.05 % 
@@ -81,5 +81,5 @@ C++                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/12/2023 22:10:04 UTC
+ Last Updated on 14/12/2023 22:09:45 UTC
 <!--END_SECTION:waka-->
