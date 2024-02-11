@@ -24,8 +24,6 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 <img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C114%20hrs%2018%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -34,7 +32,7 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 🌞 Morning                446 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
 🌆 Daytime                932 commits         ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
 🌃 Evening                951 commits         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
-🌙 Night                  1600 commits        ██████████░░░░░░░░░░░░░░░   40.72 % 
+🌙 Night                  1601 commits        ██████████░░░░░░░░░░░░░░░   40.74 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -42,17 +40,17 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 Monday                   453 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
 Tuesday                  644 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
 Wednesday                328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
-Thursday                 678 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Thursday                 678 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.25 % 
 Friday                   520 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.23 % 
-Saturday                 638 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-Sunday                   668 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
+Saturday                 638 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+Sunday                   669 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
 ```
 
 
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Bangkok
+🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
 Go                       2 hrs 12 mins       ████████████████████████░   96.61 % 
@@ -81,5 +79,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 10/02/2024 22:08:18 UTC
+ Last Updated on 11/02/2024 22:08:40 UTC
 <!--END_SECTION:waka-->
