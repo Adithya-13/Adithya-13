@@ -24,8 +24,6 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 <img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C145%20hrs%2048%20mins-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
@@ -33,19 +31,19 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 ```text
 🌞 Morning                447 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 🌆 Daytime                932 commits         ██████░░░░░░░░░░░░░░░░░░░   23.34 % 
-🌃 Evening                951 commits         ██████░░░░░░░░░░░░░░░░░░░   23.82 % 
-🌙 Night                  1663 commits        ██████████░░░░░░░░░░░░░░░   41.65 % 
+🌃 Evening                951 commits         ██████░░░░░░░░░░░░░░░░░░░   23.81 % 
+🌙 Night                  1664 commits        ██████████░░░░░░░░░░░░░░░   41.66 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   462 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Tuesday                  654 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Tuesday                  654 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.37 % 
 Wednesday                337 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
-Thursday                 687 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
-Friday                   529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Thursday                 687 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.20 % 
+Friday                   529 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 Saturday                 647 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.20 % 
-Sunday                   677 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
+Sunday                   678 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.98 % 
 ```
 
 
@@ -77,5 +75,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2024 22:08:33 UTC
+ Last Updated on 14/04/2024 23:34:11 UTC
 <!--END_SECTION:waka-->
