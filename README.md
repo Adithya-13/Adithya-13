@@ -24,7 +24,7 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 <img alt="Adithya_13's github stats" src="https://github-readme-stats.vercel.app/api?username=Adithya-13&count_private=true&show_icons=true&hide_border=true&include_all_commits=true&line_height=24&theme=radical"/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C246%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C249%20hrs%204%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.3%20million%20lines%20of%20code-blue)
 
@@ -33,8 +33,8 @@ I'm Adithya Firmansyah Putra, Flutter Developer and UI/UX Enthusiast based in In
 ```text
 🌞 Morning                448 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
 🌆 Daytime                932 commits         ██████░░░░░░░░░░░░░░░░░░░   22.87 % 
-🌃 Evening                953 commits         ██████░░░░░░░░░░░░░░░░░░░   23.39 % 
-🌙 Night                  1742 commits        ███████████░░░░░░░░░░░░░░   42.75 % 
+🌃 Evening                952 commits         ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+🌙 Night                  1743 commits        ███████████░░░░░░░░░░░░░░   42.77 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
@@ -55,17 +55,16 @@ Sunday                   689 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Go                       9 hrs 12 mins       ███████████████████████░░   91.06 % 
-SQL                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
-Markdown                 11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.94 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Go                       6 hrs 25 mins       ███████████████████████░░   90.07 % 
+SQL                      38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 
 🔥 Editors: 
-VS Code                  10 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 7 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      10 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Dart** 
@@ -81,5 +80,5 @@ Swift                    1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 03/07/2024 22:11:09 UTC
+ Last Updated on 04/07/2024 22:11:37 UTC
 <!--END_SECTION:waka-->
